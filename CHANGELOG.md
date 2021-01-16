@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
+### Added
+- Gujarati translations
+- Persian translations
+- Hebrew translations 
 
 ## [1.4.0] - 2020-12-25
 ### Added

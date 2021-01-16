@@ -26,7 +26,7 @@ The latest official **installers** and **portable versions** for macOS, Windows,
 
 ### macOS
 
-You can also install *Stretchly* with [Homebrew](https://brew.sh/) by running `brew update && brew cask install stretchly`. When upgrading, run `brew update && brew upgrade --cask`. Don't forget to Quit Stretchly, first.
+You can also install *Stretchly* with [Homebrew](https://brew.sh/) by running `brew update && brew install --cask stretchly`. When upgrading, run `brew update && brew upgrade --cask`. Don't forget to Quit Stretchly, first.
 
  *Stretchly* is not signed (due to its costs) so you will need to use this workaround for the first run: [Open a Mac app from an unidentified developer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac).
 
@@ -308,12 +308,14 @@ You can help to translate Stretchly on [Weblate](https://hosted.weblate.org/enga
 - Benedikt Allendorf, [@BenediktAllendorf](https://github.com/BenediktAllendorf)
 - Haechan Song, [@hcsong213](https://github.com/hcsong213)
 - Will, [@qubist](https://github.com/qubist)
+- Abhilash Mandaliya, [@abhilashmandaliya](https://github.com/abhilashmandaliya)
 
 Also see Github's list of [contributors](https://github.com/hovancik/stretchly/graphs/contributors).
 
 1.0 Icon and UI design by Colin Shanley ([www.colinshanley.com](http://www.colinshanley.com/)).
 
 ## Humans and Tools
+ - https://github.com/HatScripts/circle-flags 
  - https://www.icoconverter.com/ to generate .ico
  - http://www.img2icnsapp.com/ to create .icns
  - https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
